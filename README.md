@@ -2,4 +2,3 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java & C#
 - 📫 You can reach me by using my e-mail address | arifkalndr@gmail.com & using my Discord | @kugelbltz
-- 
