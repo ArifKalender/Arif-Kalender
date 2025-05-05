@@ -1,4 +1,18 @@
-- 👋 Hi, I’m Arif Kalender
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java & C#
-- 📫 You can reach me by using my e-mail address | arifkalndr@gmail.com & using my Discord | @kugelbltz
+# Junior Backend Developer
+
+## About
+
+
+**Languages**
+> Java, C#
+
+
+**Interests**
+> *OOP, Procedural generation, Multi threading, server-side development*
+
+
+**Currently learning**
+> *Procedural generation*
+
+## More
+Currently developing at [ProjectKorra](https://github.com/ProjectKorra/ProjectKorra/)
